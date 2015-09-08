@@ -1,0 +1,2 @@
+module SpecableRestfullRoutes
+end
